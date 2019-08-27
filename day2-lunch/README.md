@@ -14,4 +14,4 @@ samtools sort -@ 4 SRR072893.10k.bam -o SRR072893.10k.sorted.bam
 samtools index -b SRR072893.10k.sorted.bam 
 
 #e
-stringtie SRR072893.10k.sorted.bam -e -B -p 4 -G BDGP6.Ensembl.81.gtf -o SRR072893.10k.sorted.bam
+stringtie SRR072893.10k.sorted.bam -e -B -p 4 -G BDGP6.Ensembl.81.gtf -o Test.gtf
