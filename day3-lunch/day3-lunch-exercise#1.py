@@ -56,7 +56,7 @@ def binary_search(lst, m):
             distance = m - lst[mid]
             return lst[mid], distance, iteration
         else:
-            distance = lst[mid+1] - distance
+            distance = lst[mid+1] - m
             return lst[mid+1], distance, iteration
     elif mid + 1 >= l:
         distance = m - lst[mid]
