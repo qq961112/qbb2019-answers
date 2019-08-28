@@ -71,7 +71,7 @@ key = str(answer[0])
 dis = int(answer[1])
 itera = int(answer[2])
 
-print("nearest gene is ", genedict[key],"\n", "disntance=", dis,"bp\n", "iteration=", itera)   
+print("nearest gene is ", genedict[key],"\n", "distance=", dis,"bp\n", "iteration=", itera)   
 
     
 
