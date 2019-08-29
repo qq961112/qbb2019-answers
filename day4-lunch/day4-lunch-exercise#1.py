@@ -37,9 +37,9 @@ degree = float(sys.argv[2])
 mean = float(sys.argv[3])
 std = float(sys.argv[4])
 b = stats.skewnorm.pdf(x, degree, mean, std)
-#try 1.5 1.4 3.1
+#try -1.7 5.5 3.2
 
-text=["degree=", str(degree), "mean=", str(mean),"std=", str(std)]
+text=["mu",str(mu),"sigma=",str(sigma),"degree=", str(degree), "mean=", str(mean),"std=", str(std)]
 
 fig, ax = plt.subplots()
 ax.set_title("log2 FPKM distribution")
