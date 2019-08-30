@@ -37,7 +37,7 @@ for i, line in enumerate(open(sys.argv[1])):
             prostart = end - 500
             proend = end + 500
         else:
-            prostart = start
+            prostart = 0
             proend = end + 500
         new_df.append([chrom, prostart, proend, t_name])
     
