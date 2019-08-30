@@ -31,7 +31,7 @@ mean3 = df3.loc[:,"H3K9me3"]
 fpkms = fpkm.loc[:,"FPKM"]
 lm = pd.concat((mean1,mean2,mean3,fpkms),axis = 1)
 # print(fpkms)
-print(lm)
+# print(lm)
 
 
 
