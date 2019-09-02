@@ -1,26 +1,26 @@
                             OLS Regression Results                            
 ==============================================================================
-Dep. Variable:                   FPKM   R-squared:                       0.000
-Model:                            OLS   Adj. R-squared:                 -0.000
-Method:                 Least Squares   F-statistic:                    0.2998
-Date:                Fri, 30 Aug 2019   Prob (F-statistic):              0.826
-Time:                        15:56:05   Log-Likelihood:            -2.0498e+05
-No. Observations:               34718   AIC:                         4.100e+05
-Df Residuals:                   34714   BIC:                         4.100e+05
+Dep. Variable:                   FPKM   R-squared:                       0.031
+Model:                            OLS   Adj. R-squared:                  0.031
+Method:                 Least Squares   F-statistic:                     371.5
+Date:                Mon, 02 Sep 2019   Prob (F-statistic):          1.62e-237
+Time:                        17:57:41   Log-Likelihood:            -2.0443e+05
+No. Observations:               34718   AIC:                         4.089e+05
+Df Residuals:                   34714   BIC:                         4.089e+05
 Df Model:                           3                                         
 Covariance Type:            nonrobust                                         
 ==============================================================================
                  coef    std err          t      P>|t|      [0.025      0.975]
 ------------------------------------------------------------------------------
-Intercept     13.7359      0.607     22.638      0.000      12.547      14.925
-H3K4me1       -0.0330      0.049     -0.669      0.503      -0.130       0.064
-H3K9me3        0.0138      0.069      0.202      0.840      -0.120       0.148
-H3K4me3       -0.0023      0.008     -0.265      0.791      -0.019       0.014
+Intercept      2.3432      0.597      3.923      0.000       1.173       3.514
+H3K4me1       -0.2253      0.049     -4.642      0.000      -0.320      -0.130
+H3K9me3       -0.1621      0.067     -2.404      0.016      -0.294      -0.030
+H3K4me3        0.2399      0.008     28.674      0.000       0.223       0.256
 ==============================================================================
-Omnibus:                    86656.070   Durbin-Watson:                   1.857
-Prob(Omnibus):                  0.000   Jarque-Bera (JB):       2415923290.105
-Skew:                          27.050   Prob(JB):                         0.00
-Kurtosis:                    1294.186   Cond. No.                         103.
+Omnibus:                    87345.738   Durbin-Watson:                   1.942
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):       2623336175.159
+Skew:                          27.582   Prob(JB):                         0.00
+Kurtosis:                    1348.521   Cond. No.                         103.
 ==============================================================================
 
 Warnings:
