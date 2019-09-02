@@ -36,7 +36,7 @@ lm = pd.concat((mean1,mean2,mean3,fpkms),axis = 1)
 # print(mean)
 
 
-model = sm.formula.ols(formula = "FPKM ~ H3K4me1 + H3K9me3 + H3K4me3", data = lm)
+model = sm.formula.ols(formula = "FPKM ~ H3K4me1 + H3K4me3 + H3K9me3", data = lm)
 
 ols_results = model.fit()
 print(ols_results.summary())
