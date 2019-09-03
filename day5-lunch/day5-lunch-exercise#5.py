@@ -36,8 +36,8 @@ pred_val = ols_results.fittedvalues.copy()
 true_val = lm.loc[:,"FPKM"]
 # print(true_val)
     
-residual = np.log2(abs(pred_val - true_val))
-# residual = pred_val - true_val
+# residual = np.log2(abs(pred_val - true_val))
+residual = pred_val - true_val
 
 resid = []
 for i in range(len(residual)):
@@ -48,7 +48,7 @@ resid.sort()
 fig, ax = plt.subplots()
 ax.set_title("Residual Distribution of Linear Regression")
 ax.set_xlabel("Distribution")
-ax.set_ylabel("Log2 residual")
+ax.set_ylabel("Residual")
 ax.hist(resid, bins = 100, density = True)
-fig.savefig("residual_histogram.png")
+fig.savefig("residual_histogram_non_log.png")
 plt.close(fig)
