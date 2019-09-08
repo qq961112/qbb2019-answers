@@ -17,6 +17,16 @@ samtools index -b SRR072893.10k.sorted.bam
 #e
 stringtie SRR072893.10k.sorted.bam -e -B -p 4 -G BDGP6.Ensembl.81.gtf -o Test.gtf
 
+#Exercise#3
+grep "gene" SRR072893.sorted.bam| cut -f 1 | uniq -c > day2-lunch-exercise#3.txt
+
+The "grep" command is to select the lines in the .bam that contain the alignments.
+
+The "cut" command and "-f" option is to select the column of chromosomes.
+
+The "uniq" command and "-c" option is to count the numbers of lines of alignments that appears for each chromosome.
+
+"> day2-lunch-exercise#3.txt" is to output the results as a .txt file named day2-lunch-exercise#3.txt. 
 
 
 
@@ -29,7 +39,7 @@ Those lines with 12 fields only contain 1 optional field, YT:Z:UU, which indicat
 
 Lines with 13 fields contain an extra tag, YF, which means they are filtered out.
 
-Lines with 20 fields get tags of AS, XN, XM, XO, XG NM, MD, YT and NH, suggesting that they are ailgned reads. 
+Lines with 20 fields get tags of AS, XN, XM, XO, XG, NM, MD, YT and NH, suggesting that they are ailgned reads. 
 
 Lines with 21 fields get an extra tag, XS, indicating they are sliced alignments and can be mapped to one of the strand.
 
