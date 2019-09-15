@@ -1,0 +1,33 @@
+#1. velvet assembly (K=21)
+
+confic metrics:
+The number of contigs =  17
+max length =  27802
+min length =  41
+average length =  5884.64705882353
+N50 =  13390
+
+#2. SPAdes assembly
+
+config metrics:
+K21
+The number of contigs =  20
+max length =  27803
+min length =  22
+average length =  5014.05
+N50 =  13395
+
+K33
+The number of contigs =  10
+max length =  61028
+min length =  34
+average length =  10022.4
+N50 =  61028
+
+K55
+The number of contigs =  1
+max length =  100000
+min length =  100000
+average length =  100000.0
+N50 =  100000
+
