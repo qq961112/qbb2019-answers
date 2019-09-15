@@ -1,0 +1,50 @@
+#1. velvet assembly
+
+time for velveth
+real	0m0.016s
+user	0m0.004s
+sys	0m0.004s
+
+time spent on velvetg
+real	0m0.018s
+user	0m0.009s
+sys	0m0.003s
+
+contig metrics:
+The number of contigs =  287
+max length =  1333
+min length =  41
+average length =  214.54355400696863
+N50 =  290
+
+
+
+#2. SPAdes assembly
+
+time for SPAdes
+real	0m2.884s
+user	0m1.860s
+sys	0m1.061s
+
+contig metrics:
+
+K21
+The number of contigs =  143
+max length =  1335
+min length =  36
+average length =  349.53146853146853
+N50 =  368
+
+K33
+The number of contigs =  134
+max length =  1409
+min length =  185
+average length =  364.24626865671644
+N50 =  371
+
+K55
+The number of contigs =  128
+max length =  1737
+min length =  207
+average length =  389.2109375
+N50 =  372
