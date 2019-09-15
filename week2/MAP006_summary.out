@@ -1,0 +1,33 @@
+SPAdes assembly for MAP006.subset.fa
+
+Config metrics:
+
+K21
+The number of contigs =  5168
+max length =  9888
+min length =  22
+average length =  91.4094427244582
+N50 =  252
+
+K33
+max length =  60855
+min length =  145
+average length =  25665.5
+N50 =  60855
+
+K55
+The number of contigs =  12
+max length =  88677
+min length =  58
+average length =  11609.5
+N50 =  88677
+
+K77
+The number of contigs =  11
+max length =  60715
+min length =  11974
+average length =  25460.272727272728
+N50 =  22295
+
+K99
+N/A
