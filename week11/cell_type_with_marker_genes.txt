@@ -1,0 +1,15 @@
+Cluster	Marker_Gene	Cell_type
+0		Tsc22d1		Di- and mesencephalon neurons
+1		Dbi			Ependymal cells
+2		Gap43		Sympathetic neurons
+3		Lhx6 		Telencephalon interneurons
+4		Arpp21		Telencephalon projecting neurons
+5		Nrp2		Enteric neurons 
+6		Dlx6os1 	Immature neuron/Telencephalon inhibitory interneurons
+7		Hbb-bs 		Peripheral sensory neurons/Telencephalon projecting neurons  
+8		Arpc1b 		Peripheral sensory neurons 
+9		Reln		Telencephalon interneurons 
+10		Rgs5		Vascular cells 
+
+
+## Cell type annotation based on http://mousebrain.org
