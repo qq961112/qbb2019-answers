@@ -1,0 +1,198 @@
+For sample control
+Log-likelihood for the DOUBLE guassian model is:
+ -52.54882958000446
+ BIC for SINGLE gaussian model is:
+ 125.63102385502171 
+ BIC for DOUBLE gaussian model is:
+ 128.12351008994938
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample A
+Log-likelihood for the DOUBLE guassian model is:
+ -44.19938442068817
+ BIC for SINGLE gaussian model is:
+ 120.33252322917232 
+ BIC for DOUBLE gaussian model is:
+ 111.4246197713168
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample B
+Log-likelihood for the DOUBLE guassian model is:
+ -61.28926936584591
+ BIC for SINGLE gaussian model is:
+ 152.00459359946245 
+ BIC for DOUBLE gaussian model is:
+ 145.6043896616323
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample C
+Log-likelihood for the DOUBLE guassian model is:
+ -32.437020793662846
+ BIC for SINGLE gaussian model is:
+ 99.56813401837223 
+ BIC for DOUBLE gaussian model is:
+ 87.89989251726615
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample D
+Log-likelihood for the DOUBLE guassian model is:
+ -69.0730054998016
+ BIC for SINGLE gaussian model is:
+ 152.9809424530651 
+ BIC for DOUBLE gaussian model is:
+ 161.17186192954364
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample E
+Log-likelihood for the DOUBLE guassian model is:
+ -63.895822693791594
+ BIC for SINGLE gaussian model is:
+ 155.16529245902228 
+ BIC for DOUBLE gaussian model is:
+ 150.81749631752365
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample F
+Log-likelihood for the DOUBLE guassian model is:
+ -53.55071332736735
+ BIC for SINGLE gaussian model is:
+ 120.28155603611819 
+ BIC for DOUBLE gaussian model is:
+ 130.12727758467514
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample G
+Log-likelihood for the DOUBLE guassian model is:
+ -51.24006881506012
+ BIC for SINGLE gaussian model is:
+ 118.49063780613152 
+ BIC for DOUBLE gaussian model is:
+ 125.5059885600607
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample H
+Log-likelihood for the DOUBLE guassian model is:
+ -31.74777678828657
+ BIC for SINGLE gaussian model is:
+ 89.8258673251631 
+ BIC for DOUBLE gaussian model is:
+ 86.52140450651359
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample I
+Log-likelihood for the DOUBLE guassian model is:
+ -63.88851913637624
+ BIC for SINGLE gaussian model is:
+ 143.42278781504368 
+ BIC for DOUBLE gaussian model is:
+ 150.80288920269294
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample J
+Log-likelihood for the DOUBLE guassian model is:
+ -65.77369190575853
+ BIC for SINGLE gaussian model is:
+ 152.59103841450568 
+ BIC for DOUBLE gaussian model is:
+ 154.5732347414575
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample K
+Log-likelihood for the DOUBLE guassian model is:
+ -75.6733627982432
+ BIC for SINGLE gaussian model is:
+ 167.03864661039933 
+ BIC for DOUBLE gaussian model is:
+ 174.37257652642688
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample L
+Log-likelihood for the DOUBLE guassian model is:
+ -63.72598868167983
+ BIC for SINGLE gaussian model is:
+ 149.940423416901 
+ BIC for DOUBLE gaussian model is:
+ 150.47782829330012
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample M
+Log-likelihood for the DOUBLE guassian model is:
+ -65.16313724635675
+ BIC for SINGLE gaussian model is:
+ 145.97550719540325 
+ BIC for DOUBLE gaussian model is:
+ 153.35212542265396
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample N
+Log-likelihood for the DOUBLE guassian model is:
+ -64.38270226844037
+ BIC for SINGLE gaussian model is:
+ 157.94045147880217 
+ BIC for DOUBLE gaussian model is:
+ 151.7912554668212
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample O
+Log-likelihood for the DOUBLE guassian model is:
+ -64.67171586785662
+ BIC for SINGLE gaussian model is:
+ 146.85075890041142 
+ BIC for DOUBLE gaussian model is:
+ 152.3692826656537
+ The more likely model is the SINGLE gaussian model
+
+
+
+For sample P
+Log-likelihood for the DOUBLE guassian model is:
+ -55.503093194176884
+ BIC for SINGLE gaussian model is:
+ 134.7865910273603 
+ BIC for DOUBLE gaussian model is:
+ 134.03203731829421
+ The more likely model is the DOUBLE gaussian model
+
+
+
+For sample Q
+Log-likelihood for the DOUBLE guassian model is:
+ -55.980153527858164
+ BIC for SINGLE gaussian model is:
+ 140.00440044077612 
+ BIC for DOUBLE gaussian model is:
+ 134.9861579856568
+ The more likely model is the DOUBLE gaussian model
+
+
+
